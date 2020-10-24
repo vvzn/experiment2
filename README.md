@@ -112,11 +112,11 @@ public class TestChooseclass {
 <br>先建立一个父类People,里面包含name,number,sex三个变量,这样在子类Student和Teacher里面就不用再次定义了。
 <br>子类的Student里面需要先继承父类的函数，然后我又新定义了一个函数，是用来提示选课的。
 <br>子类的Teacher里面同样需要先继承父类的函数，然后新增了三个变量lessonname，lessontime，lessonplace，用来提示学生都有哪些老师可以选课。
-<br>Test里面定义了两个静态变量，
+<br>Test里面定义了两个静态变量，然后把老师和学生的信息重新赋值,再输出即可。
 
 ## 五、核心方法
 <br>子类继承父类，同时子类还需要定义新的函数。
-<br>
+<br>在Test里面需要
 
 ## 六、实验结果
 请输入姓名以及学号喔!
